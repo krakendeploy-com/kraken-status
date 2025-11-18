@@ -1,7 +1,7 @@
-url: https://api.krakendeploy.com
-status: down
-code: 404
-responseTime: 310
-lastUpdated: 2025-11-18T17:43:46.303Z
+url: https://api.krakendeploy.com/health
+status: up
+code: 200
+responseTime: 391
+lastUpdated: 2025-11-18T17:50:25.368Z
 startTime: 2025-11-18T17:43:45.643Z
 generator: Upptime <https://github.com/upptime/upptime>
