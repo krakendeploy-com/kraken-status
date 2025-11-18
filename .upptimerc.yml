@@ -6,11 +6,11 @@ sites:
   - name: Kraken Site
     url: https://www.krakendeploy.com
   - name: Kraken API
-    url: https://api.krakendeploy.com
+    url: https://api.krakendeploy.com/health
   - name: Kraken Agent API
-    url: https://agent-api.krakendeploy.com
+    url: https://agent-api.krakendeploy.com/health
   - name: Kraken Auth
-    url: https://auth.krakendeploy.com
+    url: https://auth.krakendeploy.com/health
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
