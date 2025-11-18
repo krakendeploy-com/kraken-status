@@ -40,19 +40,19 @@
     "url": "https://agent-api.krakendeploy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/agent-api.krakendeploy.com.ico",
     "slug": "kraken-agent-api",
-    "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
-    "time": 363,
-    "timeDay": 363,
-    "timeWeek": 363,
-    "timeMonth": 363,
-    "timeYear": 363,
+    "status": "up",
+    "uptime": "1.18%",
+    "uptimeDay": "1.18%",
+    "uptimeWeek": "1.18%",
+    "uptimeMonth": "1.18%",
+    "uptimeYear": "1.18%",
+    "time": 434,
+    "timeDay": 434,
+    "timeWeek": 434,
+    "timeMonth": 434,
+    "timeYear": 434,
     "dailyMinutesDown": {
-      "2025-11-18": 7
+      "2025-11-18": 11
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://auth.krakendeploy.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/auth.krakendeploy.com.ico",
     "slug": "kraken-auth",
-    "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
-    "time": 343,
-    "timeDay": 343,
-    "timeWeek": 343,
-    "timeMonth": 343,
-    "timeYear": 343,
+    "status": "up",
+    "uptime": "0.73%",
+    "uptimeDay": "0.73%",
+    "uptimeWeek": "0.73%",
+    "uptimeMonth": "0.73%",
+    "uptimeYear": "0.73%",
+    "time": 433,
+    "timeDay": 433,
+    "timeWeek": 433,
+    "timeMonth": 433,
+    "timeYear": 433,
     "dailyMinutesDown": {
-      "2025-11-18": 7
+      "2025-11-18": 11
     }
   }
 ]
