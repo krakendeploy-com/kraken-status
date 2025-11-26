@@ -1,7 +1,7 @@
 url: https://agent-api.krakendeploy.com/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-26T20:25:22.995Z
+status: up
+code: 200
+responseTime: 603
+lastUpdated: 2025-11-26T20:39:43.165Z
 startTime: 2025-11-18T17:43:48.067Z
 generator: Upptime <https://github.com/upptime/upptime>
