@@ -1,7 +1,7 @@
 url: https://agent-api.krakendeploy.com/health
 status: up
 code: 200
-responseTime: 603
-lastUpdated: 2025-11-26T20:39:43.165Z
+responseTime: 550
+lastUpdated: 2025-11-26T23:11:02.070Z
 startTime: 2025-11-18T17:43:48.067Z
 generator: Upptime <https://github.com/upptime/upptime>
