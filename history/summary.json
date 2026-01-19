@@ -4,10 +4,10 @@
     "url": "https://www.krakendeploy.com",
     "icon": "https://raw.githubusercontent.com/krakendeploy-com/kraken-status/HEAD/assets/logo.png",
     "slug": "kraken-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 453,
@@ -15,17 +15,19 @@
     "timeWeek": 475,
     "timeMonth": 487,
     "timeYear": 453,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-19": 2
+    }
   },
   {
     "name": "Kraken API",
     "url": "https://api.krakendeploy.com/health",
     "icon": "https://raw.githubusercontent.com/krakendeploy-com/kraken-status/HEAD/assets/logo.png",
     "slug": "kraken-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 444,
@@ -33,17 +35,19 @@
     "timeWeek": 477,
     "timeMonth": 480,
     "timeYear": 444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-19": 1
+    }
   },
   {
     "name": "Kraken Agent API",
     "url": "https://agent-api.krakendeploy.com/health",
     "icon": "https://raw.githubusercontent.com/krakendeploy-com/kraken-status/HEAD/assets/logo.png",
     "slug": "kraken-agent-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 450,
@@ -51,16 +55,18 @@
     "timeWeek": 480,
     "timeMonth": 467,
     "timeYear": 450,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-19": 1
+    }
   },
   {
     "name": "Kraken Auth",
     "url": "https://auth.krakendeploy.com/health",
     "icon": "https://raw.githubusercontent.com/krakendeploy-com/kraken-status/HEAD/assets/logo.png",
     "slug": "kraken-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 473,
     "timeMonth": 460,
     "timeYear": 449,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-19": 0
+    }
   }
 ]
